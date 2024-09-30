@@ -11,7 +11,7 @@ The dataset utilized for this analysis is derived from publicly available Uber t
 - **Affiliated Base Number**: Identifier for the base affiliated with the ride.
 - **Location ID**: Identifier for the geographic location of the pickup.
 
-The dataset can be downloaded from [uber-raw-data-janjune-15.csv](your-dataset-link).
+The dataset can be downloaded from the link provided in the uber dataset.txt file.
 
 ## Installation
 Ensure that you have Python installed (preferably version 3.7 or later).
